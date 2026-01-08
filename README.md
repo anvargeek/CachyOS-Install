@@ -1,2 +1,2 @@
 # CachyOS-Install
-INstalls Apps after CachyOS Install
+Installs Apps after CachyOS Install
