@@ -34,6 +34,13 @@ for file in  Utils/* ; do
     sh "$file"
 done
 
+# Install Internet
+echo 
+echo Hyperland
+for file in  Internet/* ; do
+    sh "$file"
+done
+
 # Install Hyprland
 echo 
 echo Hyperland

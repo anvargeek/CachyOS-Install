@@ -1,3 +1,3 @@
 #!/bin/bash
 
-yay -S --noconfirm --needed stow
+yay -S --noconfirm --needed stowneovim
